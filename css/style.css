@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(161, 107, 233);
+    padding: 10px;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+#container img {
+    width: 100%;
+    height: auto;
+
+}
